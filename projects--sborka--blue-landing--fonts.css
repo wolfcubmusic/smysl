@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Onest';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-11.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Onest';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-12.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Onest';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-13.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Onest';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-14.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Onest';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-15.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tektur';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-16.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tektur';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-17.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tektur';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-18.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tektur';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-19.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tektur';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-20.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-21.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-22.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-23.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-24.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(projects--sborka--fonts--font-25.ttf) format('truetype');
+}
