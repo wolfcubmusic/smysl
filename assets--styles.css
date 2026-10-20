@@ -1371,4 +1371,7 @@ h2 { letter-spacing:-.045em; line-height:1.08; }
 .portfolio-grid #work-yoji .case-cover img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
 
 /* Full-width approved LOOP and YOJI portfolio preview images. */
-.portfolio-grid #work-loop .case-cover img,.portfolio-grid #work-yoji .case-cover img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+.portfolio-grid #work-yoji .case-cover img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+/* LOOP: display the original approved cover in full without clipping */
+.portfolio-grid #work-loop .case-cover{background:#f7f5ef}
+.portfolio-grid #work-loop .case-cover img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
